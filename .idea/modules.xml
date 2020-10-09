@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seccion_03_RecyclerView.iml" filepath="$PROJECT_DIR$/Seccion_03_RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Seccion_03_RecyclerView-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Seccion_03_RecyclerView-app.iml" group="Seccion_03_RecyclerView/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/htdocs-Seccion_03_RecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/htdocs-Seccion_03_RecyclerView.iml" group="Seccion_03_RecyclerView" />
     </modules>
   </component>
 </project>
